@@ -1,0 +1,6 @@
+ipywidgets
+matplotlib
+numpy
+sympy
+scipy
+mpl_toolkits
